@@ -1,0 +1,70 @@
+{
+  ".mine": [
+    {
+      "nickname": "又拍云",
+      "site": "https://console.upyun.com/dashboard/",
+      "content": "免费提供 CDN 加速和云存储服务"
+    },
+    {
+      "nickname": "腾讯云",
+      "site": "https://console.cloud.tencent.com/",
+      "content": "域名、服务器购买，DNS 解析，网站备案。"
+    },
+    {
+      "nickname": "vercel",
+      "site": "https://vercel.com/dashboard",
+      "content": "CDN 加速，备用。"
+    },
+    {
+      "nickname": "Github",
+      "site": "https://github.com/",
+      "content": "全球最大的代码托管平台。"
+    },
+    {
+      "nickname": "docsmall",
+      "site": "https://docsmall.com/image-compress",
+      "content": "图片压缩，支持 jpg、png 格式。主用。"
+    },
+    {
+      "nickname": "渐变色",
+      "site": "http://color.oulu.me/",
+      "content": "180 种渐变色，可复制 CSS 代码，下载渐变色图片。"
+    },
+    {
+      "nickname": "Image Upscaler",
+      "site": "https://imgupscaler.com/",
+      "content": "人工智能技术放大图片，肉眼基本看不出区别。"
+    },
+    {
+      "nickname": "阿里巴巴矢量图标库",
+      "site": "https://www.iconfont.cn/",
+      "content": "图标非常多，支持 CSS、JS 引用，支持多种格式下载。"
+    },
+    {
+      "nickname": " iMyShare",
+      "site": "https://imyshare.com/",
+      "content": "精品实用网络资源导航，我愿称之为全网最强导航。"
+    },
+    {
+      "nickname": "小众软件",
+      "site": "https://www.appinn.com/",
+      "content": "分享免费、小巧、实用、有趣、绿色的软件。软件控最爱。"
+    },
+    {
+      "nickname": "思源笔记",
+      "site": "https://b3log.org/siyuan/",
+      "content": "一款本地优先的个人知识管理系统，支持完全离线使用和端到端加密同步。"
+    },
+    {
+      "nickname": "致美化",
+      "site": "https://zhutix.com/",
+      "content": "最专业的桌面美化交流平台，打造属于自己的 windows。"
+    },
+    {
+      "nickname": "哔哩哔哩",
+      "site": "https://www.bilibili.com/",
+      "content": "娱乐、学习两不误，我在 B 站上大学。"
+    }
+  ]
+
+}
